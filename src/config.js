@@ -1,4 +1,6 @@
 export default {
+  MAX_ATTACHMENT_SIZE: 5000000,
+  STRIPE_KEY: "pk_test_51HKkp8Bp2zEiNLR1BOfDdlSnejxYd7J88Ls39xd4UUjdr2O0i9HSvjq1Bf0JxAKDtTeuDWjm2NKSTYKOPrNFONmW00jiXAnm2T",
   s3: {
     REGION: "eu-west-1",
     BUCKET: "capic-notes-app-uploads"
